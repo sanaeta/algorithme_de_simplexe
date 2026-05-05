@@ -1,4 +1,4 @@
-Simplex Algorithm 
+## Simplex Algorithm 
 
  Overview
 
